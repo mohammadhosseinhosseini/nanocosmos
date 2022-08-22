@@ -25,8 +25,8 @@ function App() {
         },
         style: {
             width: '100%',
-            height: '56%',
-            aspectratio: '16/9',
+            // height: '56%',
+            // aspectratio: '16/9',
             controls: true,
             backgroundColor: 'gray',
             symbolColor: 'red',
