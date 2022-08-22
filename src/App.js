@@ -24,7 +24,7 @@ function App() {
             muted: false,
         },
         style: {
-            width: '100%',
+            // width: '100%',
             // height: '56%',
             // aspectratio: '16/9',
             controls: true,
